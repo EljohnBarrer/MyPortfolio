@@ -257,7 +257,6 @@ section{
 .home .profession-box .circle{
     width: 560px;
     height: 560px;
-
     border: 3px solid var(--main-color);
     border-radius: 50%;
 }
@@ -292,8 +291,9 @@ span{
     gap: 4rem;
 }
 
-.about-img{
-    height: 40vw;
+.about-img img {
+    height: 30vw;
+
 
 }
 
@@ -873,3 +873,4 @@ span{
         margin-top: 2rem;
     }
 }
+
